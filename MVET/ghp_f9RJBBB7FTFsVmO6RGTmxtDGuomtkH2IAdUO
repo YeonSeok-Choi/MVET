@@ -1,4 +1,0 @@
-fatal: User canceled device code authentication
-/c/Program Files/RStudio/resources/app/bin/postback/rpostback-askpass: line 20: : command not found
-error: unable to read askpass response from 'C:/Users/GaeJu/AppData/Local/R/win-library/4.4/credentials/ask_token.sh'
-fatal: could not read Password for 'https://PersonalAccessToken@github.com': terminal prompts disabled
